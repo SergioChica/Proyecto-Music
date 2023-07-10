@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Karla', sans-serif;
+}
+
+header {
+    background: url(../images/angel.jpg);
+    background-size: cover;
+}
+header h1 {
+    text-align: center;
+    color: white;
+    padding: 330px;
+    margin: 0 0px 0px 124px;
+    font-size: 220px;
+}
+
+.s1 {
+    background-color: white;
+    padding: 0 0 30px 0px;
+}
+.s1 h2 {
+    font-size: 70px;
+}
+.music{
+    color: rgb(219, 5, 114);
+}
+.s1 p {
+    font-size: 37px;
+    margin: 0 0 50px 0;
+}
+.s1 div img {
+    height: 700px;
+    width: 563px;
+    margin: 0 130px 0px 0px;
+}
+.s1 .container2 img {
+    margin: 0 0 0px 212px;
+}
+.container1 {
+    display: flex;
+    margin: 0 10px;
+}
+.text1 {
+    padding: 105px 0px 0px 255px;
+}
+button {
+    color: white;
+    border-radius: 35px;
+    width: 235px;
+    height: 66px;
+    background-color: rgb(253, 76, 92);
+    border: none;
+    font-size: 32px;
+}
+.container2 {
+    display: flex;
+    margin: 0 10px;
+}
+
+.s2 {
+    background: url(../images/raptis.png);
+    height: 741px;
+    background-size: cover;
+}
+.section2 {
+    color: white;
+    float: right;
+    margin: 118px 87px;
+    padding: 0 0 0 817px;
+}
+.s1 h2 {
+    font-size: 80px;
+}
+.section2 h2 {
+    font-size: 90px;
+}
+.section2 p {
+    font-size: 30px;
+    padding: 0 0 20px 0px;
+}
+.clear{
+    clear: both;
+}
+footer {
+    background: rgb(253, 76, 92);
+    color: white;
+    padding: 86px 123px;
+}
+
+.copy{
+    display: flex;
+}
+.lista {
+    display: flex;
+    font-size: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.253);
+    margin: 0px 0 30px 100px;
+}
+
+.lista div {
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
+
+.lista p {
+    margin: 10px 0 0 148px;
+}
+
+.arriba {
+    padding-bottom: 10px;
+}
+
+.copy1 {
+    margin: 0 1104px 0px 97px;
+}
